@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Muhammad Syahdaffa Yuharshu Zainiroy  
+<!-- I’m currently learning on Universitas Pembangunan Nasional "Veteran" Jakarta.
+I'm Informatics student
+-->
+
 <!--
 **daffaYuharshu/daffaYuharshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
